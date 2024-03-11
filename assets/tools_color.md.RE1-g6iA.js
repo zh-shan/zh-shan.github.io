@@ -1,0 +1,1 @@
+import{_ as o,o as t,c as e}from"./chunks/framework.e9libiF1.js";const d=JSON.parse('{"title":"颜色转换器","description":"","frontmatter":{"layout":"page","title":"颜色转换器"},"headers":[],"relativePath":"tools/color.md","filePath":"tools/color.md"}'),a={name:"tools/color.md"};function r(c,s,l,n,p,i){return t(),e("div")}const m=o(a,[["render",r]]);export{d as __pageData,m as default};

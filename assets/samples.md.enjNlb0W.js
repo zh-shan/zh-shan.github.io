@@ -1,1 +1,0 @@
-import{_ as e,o as t,c as a}from"./chunks/framework.4hIp1UYR.js";const _=JSON.parse('{"title":"代码示例","description":"","frontmatter":{"layout":"page","title":"代码示例"},"headers":[],"relativePath":"samples.md","filePath":"samples.md"}'),s={name:"samples.md"};function o(r,p,c,n,l,m){return t(),a("div")}const d=e(s,[["render",o]]);export{_ as __pageData,d as default};
