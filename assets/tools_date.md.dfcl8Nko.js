@@ -1,0 +1,1 @@
+import{_ as t,b as e,o as a}from"./chunks/framework.BKy6IMCj.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"tools/date.md","filePath":"tools/date.md"}'),o={name:"tools/date.md"};function s(r,n,c,d,p,_){return a(),e("div")}const m=t(o,[["render",s]]);export{l as __pageData,m as default};

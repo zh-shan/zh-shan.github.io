@@ -1,1 +1,0 @@
-import{_ as e,o as t,c as a}from"./chunks/framework.e9libiF1.js";const m=JSON.parse('{"title":"代码示例","description":"","frontmatter":{"layout":"page","title":"代码示例"},"headers":[],"relativePath":"samples.md","filePath":"samples/index.md"}'),s={name:"samples.md"};function o(r,n,c,p,i,d){return t(),a("div")}const _=e(s,[["render",o]]);export{m as __pageData,_ as default};
