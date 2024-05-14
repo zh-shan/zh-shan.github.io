@@ -1,1 +1,0 @@
-import{_ as o,b as t,o as e}from"./chunks/framework.BKy6IMCj.js";const d=JSON.parse('{"title":"颜色转换器","description":"","frontmatter":{"layout":"page","title":"颜色转换器"},"headers":[],"relativePath":"tools/color.md","filePath":"tools/color.md"}'),a={name:"tools/color.md"};function r(s,c,l,n,p,i){return e(),t("div")}const m=o(a,[["render",r]]);export{d as __pageData,m as default};
